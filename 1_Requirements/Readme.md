@@ -6,9 +6,6 @@
 ## Research
 ![Description](Link to Pic) -- Content
 
-## Cost and Features and Timeline
-![Description](Link to Pic) -- Content
-
 ## Defining Our System
 -- TBD
 ## SWOT ANALYSIS
@@ -31,7 +28,7 @@
 # 4W's and 1'H
 
 ## Who:
-Dileep Kumar Varadaraju 
+Dileep Kumar Varadaraju is implementing the game **Snakes and Ladders**
 
 ## What:
 Implementation of Offline Game
