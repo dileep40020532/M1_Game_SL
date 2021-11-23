@@ -1,4 +1,4 @@
-# M1_Game_SL
+# M1_Game_SL (Snakes and Ladders)
 
 ![snakes-ladders-boardgame](https://user-images.githubusercontent.com/94386568/142772518-99264b83-d8fa-4a1f-99d7-8ff3c23c7191.gif)
 
@@ -8,10 +8,18 @@ Snakes and ladders, known originally as Moksha Patam, is an ancient Indian board
 ## Constraints and Rules:-
 1.The game will begin with any dice value.
 
-2.If a 6(six) is appeared then a chance is awarded to that player.
+2.The board will have 100 cells numbered from 1 to 100.
 
-3.Only the location of current player is shown on the board, the location of other player is mentioned below the board.
+3.Each player has a piece which is initially kept outside the board (i.e., at position 0).
 
-4.Snakes:-  98 to 25, 64 to 48, 20 to 7.
+4.If a 6(six) is appeared then a chance is awarded to that player.
 
-5.Ladder:- 5 to 27, 18 to 44, 57 to 94.
+5.Whenever a piece ends up at a position with the head of the snake, the piece should go down to the position of the tail of that snake.
+
+6.Each ladder will have its start position at some number and end position at a larger number.
+
+7.Snakes:-  98 to 25, 64 to 48, 20 to 7.
+
+8.Ladder:- 5 to 27, 18 to 44, 57 to 94.
+
+9.A player wins if it exactly reaches the position 100 and the game ends there.
