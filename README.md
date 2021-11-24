@@ -23,3 +23,12 @@ Snakes and ladders, known originally as Moksha Patam, is an ancient Indian board
 8.Ladder:- 5 to 27, 18 to 44, 57 to 94.
 
 9.A player wins if it exactly reaches the position 100 and the game ends there.
+
+## Folder Structure
+
+|Folder                         |Description                                              |
+|-------------------------------|---------------------------------------------------------|
+|`1_Requirement `               |Documents detailing requirements and research            |
+|`2_Design`                     |Documents specifying design details                      |
+|`3_Implementation`             |All code and documentation                               |
+|`4_TestPlanAndOutput`          |Documents with test plans and procedures                 |
