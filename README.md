@@ -14,7 +14,7 @@ Snakes and ladders, known originally as Moksha Patam, is an ancient Indian board
 
 4.If a 6(six) is appeared then a chance is awarded to that player.
 
-5.Whenever a piece ends up at a position with the head of the snake, the piece should go down to the position of the tail of that snake.
+5.Whenever a piece ends up at a position with the head of the snake, the piece should go down to the position of that snake tale.
 
 6.Each ladder will have its start position at some number and end position at a larger number.
 
