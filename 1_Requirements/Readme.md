@@ -47,14 +47,14 @@ Using C programming language.
 # Detail requirements
 ## High Level Requirements:
 | ID | Description | Status | 
-| ----- | ----- | ------- | ---------|
+| ----- | ----- | ------- |
 | HLR1 | User should be able to give name as input  | IMPLEMENTED | 
 | HLR2 | User should be able to perform his dice  |  IMPLEMENTED  |
 | HLR3 | When checks into snake head, check to the snakes tail | IMPLEMENTED  |
-| HLR4 | When checks into start Ladder, check to the end ladder| IMPLEMENTED  |
+| HLR4 | When checks into start Ladder, check to the end ladder | IMPLEMENTED  |
 
 ## Low level Requirements:
 | ID | Description | Status | 
-| ----- | ----- | ------- | ---------|
+| ----- | ----- | ------- |
 | LLR1 | If player reaches to 100, Its win   | IMPLEMENTED | 
 | LLR2 | Other player consider as Lost  |  IMPLEMENTED  |
