@@ -30,7 +30,7 @@ The object of the game is to navigate one's game piece, according to die rolls, 
 # 4W's and 1'H
 
 ## Who:
-Dileep Kumar Varadaraju is implementing the game **Snakes and Ladders**.
+Players who wants some fun game **Snakes and Ladders**.
 
 ## What:
 Implementation of Offline Game. It can be played two players.
